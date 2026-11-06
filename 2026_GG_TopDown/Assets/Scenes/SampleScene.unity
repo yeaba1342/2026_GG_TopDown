@@ -10931,6 +10931,14 @@ MonoBehaviour:
   lines:
   - speaker: "\uB098"
     text: "\uC544 \uB4DC\uB514\uC5B4 \uCC3E\uC558\uB124!!!!!!!!!!!!!!!!!"
+  - speaker: "\uB098"
+    text: "\uC774\uAC78 \uB4E4\uACE0 \uC9D1\uC73C\uB85C \uAC00\uBCF4\uC790"
+  - speaker: "\uB098"
+    text: "(\uC8FC\uBA38\uB2C8\uC5D0 \uC8FC\uC12C\uC8FC\uC12C \uB123\uC74C)"
+  - speaker: "\uB098"
+    text: "\uC544\uAE4C \uC0AC\uB2E4\uB9AC \uAC00\uBCFC\uAE4C "
+  - speaker: "\uB098"
+    text: "\uAC00\uC9C0\uB9D0\uB7AC\uB294\uB370.."
   prompt: {fileID: 981920885}
   dialogueBox: {fileID: 515966065}
 --- !u!58 &1504032822
@@ -11139,8 +11147,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Talk
   lines:
-  - speaker: 
+  - speaker: "\uB098"
     text: "\uD65C\uC774 \uBC15\uD600\uC788\uB2E4"
+  - speaker: "\uB098"
+    text: "\uD760.."
+  - speaker: "\uB098"
+    text: "\uC3F4\uBCFC\uAE4C?"
+  - speaker: "\uB098"
+    text: "\uC544\uB2C8\uB2E4"
+  - speaker: "\uB098"
+    text: "(\uC3E8) .."
   prompt: {fileID: 1789851391}
   dialogueBox: {fileID: 515966065}
 --- !u!58 &1627971875
@@ -11776,6 +11792,14 @@ MonoBehaviour:
   lines:
   - speaker: "\uB098"
     text: "\uC5E5 \uC5EC\uAE30 \uD3ED\uD0C4\uC774 \uC788\uB294\uB370?"
+  - speaker: "\uB098"
+    text: "\uAC00\uC838\uAC08\uAE4C"
+  - speaker: "\uB098"
+    text: "\uC9D1 \uD3ED\uD30C \u3131?"
+  - speaker: "\uB098"
+    text: "\u314B\u314B \uC7A5\uB09C\uB760"
+  - speaker: "\uB098"
+    text: "\uAC00\uC790"
   prompt: {fileID: 1643240070}
   dialogueBox: {fileID: 515966065}
 --- !u!58 &1813607990
@@ -11970,6 +11994,14 @@ MonoBehaviour:
   lines:
   - speaker: "\uB098"
     text: "\uC6B0\uBB3C\uC774\uB2E4."
+  - speaker: "\uB098"
+    text: "\uAFC0\uAEBD"
+  - speaker: "\uB098"
+    text: "\uAFC0\uAEBD"
+  - speaker: "\uB098"
+    text: "\uBB3C\uC774 \uBE44\uB9AC\uB2E4."
+  - speaker: "\uB098"
+    text: "\uB2E4 \uB9C8\uC168\uB2E4."
   prompt: {fileID: 403245337}
   dialogueBox: {fileID: 515966065}
 --- !u!58 &1877591906
