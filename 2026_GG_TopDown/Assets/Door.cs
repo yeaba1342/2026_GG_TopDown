@@ -1,3 +1,4 @@
+
 using UnityEngine;
 public class Door : MonoBehaviour
 {
@@ -34,3 +35,9 @@ public class Door : MonoBehaviour
         else { lockedTalk.Say(); }
     }
 }
+
+
+
+
+
+
